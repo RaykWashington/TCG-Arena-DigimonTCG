@@ -1,4 +1,553 @@
-[{
+[
+  {
+  "title": "ST-1: Starter Deck Gaia Red",
+  "id": "a7900b3d-e8d9-4c38-beda-11452c2c5db5",
+  "game": "Digimon TCG",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 54,
+  "createdAt": "2025-08-28T16:27:28.486Z",
+  "lastModifiedAt": "2025-08-28T16:28:14.014Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Digimon",
+      "Tamer",
+      "Option",
+      "Digi-Egg"
+    ],
+    "Sideboard": [],
+    "Digimon": [
+      {
+        "count": 4,
+        "id": "ST1-02"
+      },
+      {
+        "count": 4,
+        "id": "ST1-03"
+      },
+      {
+        "count": 4,
+        "id": "ST1-04"
+      },
+      {
+        "count": 4,
+        "id": "ST1-05"
+      },
+      {
+        "count": 4,
+        "id": "ST1-06"
+      },
+      {
+        "count": 2,
+        "id": "ST1-07"
+      },
+      {
+        "count": 4,
+        "id": "ST1-08"
+      },
+      {
+        "count": 4,
+        "id": "ST1-09"
+      },
+      {
+        "count": 2,
+        "id": "ST1-10"
+      },
+      {
+        "count": 2,
+        "id": "ST1-11"
+      }
+    ],
+    "Tamer": [
+      {
+        "count": 4,
+        "id": "ST1-12"
+      }
+    ],
+    "Option": [
+      {
+        "count": 4,
+        "id": "ST1-13"
+      },
+      {
+        "count": 4,
+        "id": "ST1-14"
+      },
+      {
+        "count": 2,
+        "id": "ST1-15"
+      },
+      {
+        "count": 2,
+        "id": "ST1-16"
+      }
+    ],
+    "Digi-Egg": [
+      {
+        "count": 4,
+        "id": "ST1-01"
+      }
+    ]
+  }
+},
+{
+  "title": "ST-2: Starter Deck Cocytus Blue",
+  "id": "c6776704-2228-4ad0-9d9f-aac883063706",
+  "game": "Digimon TCG",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 54,
+  "createdAt": "2025-08-28T16:28:47.062Z",
+  "lastModifiedAt": "2025-08-28T16:29:17.710Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Digimon",
+      "Tamer",
+      "Option",
+      "Digi-Egg"
+    ],
+    "Sideboard": [],
+    "Digimon": [
+      {
+        "count": 4,
+        "id": "ST2-08"
+      },
+      {
+        "count": 4,
+        "id": "ST2-07"
+      },
+      {
+        "count": 2,
+        "id": "ST2-06"
+      },
+      {
+        "count": 4,
+        "id": "ST2-05"
+      },
+      {
+        "count": 4,
+        "id": "ST2-04"
+      },
+      {
+        "count": 4,
+        "id": "ST2-03"
+      },
+      {
+        "count": 4,
+        "id": "ST2-02"
+      },
+      {
+        "count": 4,
+        "id": "ST2-09"
+      },
+      {
+        "count": 2,
+        "id": "ST2-10"
+      },
+      {
+        "count": 2,
+        "id": "ST2-11"
+      }
+    ],
+    "Tamer": [
+      {
+        "count": 4,
+        "id": "ST2-12"
+      }
+    ],
+    "Option": [
+      {
+        "count": 4,
+        "id": "ST2-13"
+      },
+      {
+        "count": 4,
+        "id": "ST2-14"
+      },
+      {
+        "count": 2,
+        "id": "ST2-15"
+      },
+      {
+        "count": 2,
+        "id": "ST2-16"
+      }
+    ],
+    "Digi-Egg": [
+      {
+        "count": 4,
+        "id": "ST2-01"
+      }
+    ]
+  }
+},{
+  "title": "ST-3: Starter Deck Heaven's Yellow",
+  "id": "bcf28454-4131-4705-910e-ffa04da601a0",
+  "game": "Digimon TCG",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 54,
+  "createdAt": "2025-08-28T16:29:55.334Z",
+  "lastModifiedAt": "2025-08-28T16:30:29.446Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Digimon",
+      "Tamer",
+      "Option",
+      "Digi-Egg"
+    ],
+    "Sideboard": [],
+    "Digimon": [
+      {
+        "count": 4,
+        "id": "ST3-02"
+      },
+      {
+        "count": 4,
+        "id": "ST3-03"
+      },
+      {
+        "count": 4,
+        "id": "ST3-04"
+      },
+      {
+        "count": 2,
+        "id": "ST3-05"
+      },
+      {
+        "count": 4,
+        "id": "ST3-06"
+      },
+      {
+        "count": 4,
+        "id": "ST3-07"
+      },
+      {
+        "count": 4,
+        "id": "ST3-08"
+      },
+      {
+        "count": 4,
+        "id": "ST3-09"
+      },
+      {
+        "count": 2,
+        "id": "ST3-10"
+      },
+      {
+        "count": 2,
+        "id": "ST3-11"
+      }
+    ],
+    "Tamer": [
+      {
+        "count": 4,
+        "id": "ST3-12"
+      }
+    ],
+    "Option": [
+      {
+        "count": 4,
+        "id": "ST3-13"
+      },
+      {
+        "count": 2,
+        "id": "ST3-14"
+      },
+      {
+        "count": 4,
+        "id": "ST3-15"
+      },
+      {
+        "count": 2,
+        "id": "ST3-16"
+      }
+    ],
+    "Digi-Egg": [
+      {
+        "count": 4,
+        "id": "ST3-01"
+      }
+    ]
+  }
+},{
+  "title": "ST-4: Starter Deck Giga Green",
+  "id": "2a3068c0-fd64-470e-843c-b4384c0fb14a",
+  "game": "Digimon TCG",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 54,
+  "createdAt": "2025-08-28T16:30:59.493Z",
+  "lastModifiedAt": "2025-08-28T16:31:25.221Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Digimon",
+      "Tamer",
+      "Option",
+      "Digi-Egg"
+    ],
+    "Sideboard": [],
+    "Digimon": [
+      {
+        "count": 4,
+        "id": "ST4-02"
+      },
+      {
+        "count": 4,
+        "id": "ST4-03"
+      },
+      {
+        "count": 4,
+        "id": "ST4-04"
+      },
+      {
+        "count": 4,
+        "id": "ST4-05"
+      },
+      {
+        "count": 4,
+        "id": "ST4-06"
+      },
+      {
+        "count": 4,
+        "id": "ST4-07"
+      },
+      {
+        "count": 2,
+        "id": "ST4-08"
+      },
+      {
+        "count": 4,
+        "id": "ST4-09"
+      },
+      {
+        "count": 4,
+        "id": "ST4-10"
+      },
+      {
+        "count": 2,
+        "id": "ST4-11"
+      },
+      {
+        "count": 2,
+        "id": "ST4-12"
+      },
+      {
+        "count": 2,
+        "id": "ST4-13"
+      }
+    ],
+    "Tamer": [
+      {
+        "count": 4,
+        "id": "ST4-14"
+      }
+    ],
+    "Option": [
+      {
+        "count": 4,
+        "id": "ST4-15"
+      },
+      {
+        "count": 2,
+        "id": "ST4-16"
+      }
+    ],
+    "Digi-Egg": [
+      {
+        "count": 4,
+        "id": "ST4-01"
+      }
+    ]
+  }
+},{
+  "title": "ST-5: Starter Deck Machine Black",
+  "id": "5198ec70-a04a-475f-94d0-eaf985eba2ab",
+  "game": "Digimon TCG",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 54,
+  "createdAt": "2025-08-28T16:31:50.477Z",
+  "lastModifiedAt": "2025-08-28T16:32:16.677Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Digimon",
+      "Tamer",
+      "Option",
+      "Digi-Egg"
+    ],
+    "Sideboard": [],
+    "Digimon": [
+      {
+        "count": 4,
+        "id": "ST5-02"
+      },
+      {
+        "count": 4,
+        "id": "ST5-03"
+      },
+      {
+        "count": 4,
+        "id": "ST5-04"
+      },
+      {
+        "count": 4,
+        "id": "ST5-05"
+      },
+      {
+        "count": 4,
+        "id": "ST5-06"
+      },
+      {
+        "count": 4,
+        "id": "ST5-07"
+      },
+      {
+        "count": 2,
+        "id": "ST5-08"
+      },
+      {
+        "count": 4,
+        "id": "ST5-09"
+      },
+      {
+        "count": 4,
+        "id": "ST5-10"
+      },
+      {
+        "count": 2,
+        "id": "ST5-11"
+      },
+      {
+        "count": 2,
+        "id": "ST5-12"
+      },
+      {
+        "count": 2,
+        "id": "ST5-13"
+      }
+    ],
+    "Tamer": [
+      {
+        "count": 4,
+        "id": "ST5-14"
+      }
+    ],
+    "Option": [
+      {
+        "count": 4,
+        "id": "ST5-15"
+      },
+      {
+        "count": 2,
+        "id": "ST5-16"
+      }
+    ],
+    "Digi-Egg": [
+      {
+        "count": 4,
+        "id": "ST5-01"
+      }
+    ]
+  }
+},{
+  "title": "ST-6: Starter Deck Venomous Violet",
+  "id": "57de9e3f-97bf-4840-bb6a-1b502957b3b7",
+  "game": "Digimon TCG",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 54,
+  "createdAt": "2025-08-28T16:32:52.957Z",
+  "lastModifiedAt": "2025-08-28T16:33:15.085Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Digimon",
+      "Tamer",
+      "Option",
+      "Digi-Egg"
+    ],
+    "Sideboard": [],
+    "Digimon": [
+      {
+        "count": 4,
+        "id": "ST6-02"
+      },
+      {
+        "count": 4,
+        "id": "ST6-03"
+      },
+      {
+        "count": 4,
+        "id": "ST6-04"
+      },
+      {
+        "count": 4,
+        "id": "ST6-05"
+      },
+      {
+        "count": 4,
+        "id": "ST6-06"
+      },
+      {
+        "count": 4,
+        "id": "ST6-07"
+      },
+      {
+        "count": 2,
+        "id": "ST6-08"
+      },
+      {
+        "count": 4,
+        "id": "ST6-09"
+      },
+      {
+        "count": 4,
+        "id": "ST6-10"
+      },
+      {
+        "count": 2,
+        "id": "ST6-11"
+      },
+      {
+        "count": 2,
+        "id": "ST6-12"
+      },
+      {
+        "count": 2,
+        "id": "ST6-13"
+      }
+    ],
+    "Tamer": [
+      {
+        "count": 4,
+        "id": "ST6-14"
+      }
+    ],
+    "Option": [
+      {
+        "count": 4,
+        "id": "ST6-15"
+      },
+      {
+        "count": 2,
+        "id": "ST6-16"
+      }
+    ],
+    "Digi-Egg": [
+      {
+        "count": 4,
+        "id": "ST6-01"
+      }
+    ]
+  }
+},
+  {
   "title": "ST-20: Starter Deck Protector of Light",
   "id": "8d2b5c12-2220-4a2b-8e8e-f6cf6a534895",
   "game": "Digimon TCG",
