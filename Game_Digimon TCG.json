@@ -47,7 +47,7 @@
       "countersStartingValues": [
         0
       ],
-      "hideFacedDownCards": false,
+      "hideFacedDownCards": true,
       "sections": {
         "customSections": [
           "Battle Area",
@@ -86,20 +86,16 @@
             {
               "direction": "row",
               "style": {
-                "justify-content": "center"
+                "justify-content": "start"
               },
               "content": [
                 {
                   "section": "Digi-Egg",
-                  "style": {
-                    "width": "12vh"
-                  }
+                  "style": false
                 },
                 {
                   "section": "Hatched",
-                  "style": {
-                    "width": "12vh"
-                  }
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -111,7 +107,8 @@
         ],
         "autoPlayFromHand": {
           "Digimon": "Battle Area",
-          "Option": "Discard"
+          "Option": "Stack",
+          "Digi-Egg": "Hatched"
         },
         "autoPlayFromStack": {
           "Digi-Egg": "Hatched"
@@ -159,16 +156,16 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "",
             "noQuickActions": false,
-            "enterTapped": true,
+            "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": true,
+            "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
           "Digi-Egg": {
             "title": "Digi-Egg",
             "isHidden": "yes",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": false,
