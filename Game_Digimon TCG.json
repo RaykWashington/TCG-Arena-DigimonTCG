@@ -50,7 +50,6 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Mana",
           "Battle Area",
           "Security",
           "Digi-Egg"
@@ -137,8 +136,8 @@
           "Digi-Egg": {
             "title": "Digi-Egg",
             "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
+            "height": "MEDIUM",
+            "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
