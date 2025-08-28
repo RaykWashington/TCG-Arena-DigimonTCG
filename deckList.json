@@ -1,0 +1,177 @@
+[{
+  "title": "ST-20: Starter Deck Protector of Light",
+  "id": "8d2b5c12-2220-4a2b-8e8e-f6cf6a534895",
+  "game": "Digimon TCG",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 54,
+  "createdAt": "2025-08-28T14:03:58.505Z",
+  "lastModifiedAt": "2025-08-28T14:04:49.425Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Digi-Egg",
+      "Digimon",
+      "Tamer",
+      "Option"
+    ],
+    "Sideboard": [],
+    "Digi-Egg": [
+      {
+        "count": 4,
+        "id": "ST20-01"
+      }
+    ],
+    "Digimon": [
+      {
+        "count": 4,
+        "id": "ST20-02"
+      },
+      {
+        "count": 4,
+        "id": "ST20-03"
+      },
+      {
+        "count": 4,
+        "id": "ST20-04"
+      },
+      {
+        "count": 4,
+        "id": "ST20-05"
+      },
+      {
+        "count": 2,
+        "id": "ST20-06"
+      },
+      {
+        "count": 4,
+        "id": "ST20-07"
+      },
+      {
+        "count": 4,
+        "id": "ST20-08"
+      },
+      {
+        "count": 4,
+        "id": "ST20-09"
+      },
+      {
+        "count": 4,
+        "id": "ST20-10"
+      },
+      {
+        "count": 2,
+        "id": "ST20-11"
+      }
+    ],
+    "Tamer": [
+      {
+        "count": 4,
+        "id": "ST20-12"
+      },
+      {
+        "count": 2,
+        "id": "ST20-13"
+      }
+    ],
+    "Option": [
+      {
+        "count": 4,
+        "id": "ST20-14"
+      },
+      {
+        "count": 4,
+        "id": "ST20-15"
+      }
+    ]
+  }
+},
+{
+  "title": "ST-21: Starter Deck Hero of Hope",
+  "id": "c238ecb0-bf24-4468-9232-6e792e2e4c9d",
+  "game": "Digimon TCG",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 54,
+  "createdAt": "2025-08-28T14:11:14.176Z",
+  "lastModifiedAt": "2025-08-28T14:11:41.080Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Digi-Egg",
+      "Digimon",
+      "Tamer",
+      "Option"
+    ],
+    "Sideboard": [],
+    "Digi-Egg": [
+      {
+        "count": 4,
+        "id": "ST21-01"
+      }
+    ],
+    "Digimon": [
+      {
+        "count": 4,
+        "id": "ST21-02"
+      },
+      {
+        "count": 4,
+        "id": "ST21-03"
+      },
+      {
+        "count": 4,
+        "id": "ST21-04"
+      },
+      {
+        "count": 4,
+        "id": "ST21-05"
+      },
+      {
+        "count": 2,
+        "id": "ST21-06"
+      },
+      {
+        "count": 4,
+        "id": "ST21-07"
+      },
+      {
+        "count": 4,
+        "id": "ST21-08"
+      },
+      {
+        "count": 4,
+        "id": "ST21-09"
+      },
+      {
+        "count": 4,
+        "id": "ST21-10"
+      },
+      {
+        "count": 2,
+        "id": "ST21-11"
+      }
+    ],
+    "Tamer": [
+      {
+        "count": 4,
+        "id": "ST21-12"
+      },
+      {
+        "count": 2,
+        "id": "ST21-13"
+      }
+    ],
+    "Option": [
+      {
+        "count": 4,
+        "id": "ST21-14"
+      },
+      {
+        "count": 4,
+        "id": "ST21-15"
+      }
+    ]
+  }
+}
+]
