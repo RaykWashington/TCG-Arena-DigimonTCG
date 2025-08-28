@@ -106080,5 +106080,24 @@
     "cost": "11",
     "color": "Purple",
     "set": "Promotion Card"
+  },
+   "MemoryGauge": {
+    "id": "MemoryGauge",
+    "face": {
+      "front": {
+        "name": "Memory Gauge",
+        "type": "Memory Gauge",
+        "cost": "-",
+        "image": "https://raykwashington.github.io/TCG-Arena-DigimonTCG/img/memorygauge.jpg"
+      },
+      "back": ""
+    },
+    "name": "Memory Gauge",
+    "type": "Memory Gauge",
+    "level": "-",
+    "cost": "-",
+    "color": "-",
+    "set": "-",
+    "isToken" : true
   }
 }

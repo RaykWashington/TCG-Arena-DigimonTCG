@@ -111,7 +111,8 @@
           "Digi-Egg": "Hatched"
         },
         "autoPlayFromStack": {
-          "Digi-Egg": "Hatched"
+          "Digi-Egg": "Hatched",
+          "Option": "Discard"
         },
         "sectionsDict": {
           "Hand": {
@@ -318,7 +319,7 @@
             "title": "Hatched",
             "isHidden": "no",
             "height": "MEDIUM",
-            "alignment": "CENTER",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
