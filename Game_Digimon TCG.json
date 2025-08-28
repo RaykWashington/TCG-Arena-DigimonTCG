@@ -50,7 +50,10 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Mana"
+          "Mana",
+          "Battle Area",
+          "Security",
+          "Digi-Egg"
         ],
         "layout": {
           "direction": "column",
