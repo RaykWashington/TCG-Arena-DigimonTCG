@@ -1,9 +1,9 @@
 {
   "name": "Digimon TCG",
-  "menuBackgroundImage": "https://raykwashington.github.io/TCG-Arena-DigimonTCG/img/playmat1.png",
+  "menuBackgroundImage": "https://raykwashington.github.io/TCG-Arena-DigimonTCG/img/playmat1.jpg",
   "defaultRessources": {
     "backgrounds": [
-      "https://raykwashington.github.io/TCG-Arena-DigimonTCG/img/playmat1.png"
+      "https://raykwashington.github.io/TCG-Arena-DigimonTCG/img/playmat1.jpg"
     ],
     "decksUrl": ""
   },
