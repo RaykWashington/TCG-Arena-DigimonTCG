@@ -1194,14 +1194,14 @@
     "face": {
       "front": {
         "name": "Breakthrough of Courage-ST15-15",
-        "type": "Opiton",
+        "type": "Option",
         "cost": "4",
         "image": "https://world.digimoncard.com/images/cardlist/card/ST15-15.png"
       },
       "back": ""
     },
     "name": "Breakthrough of Courage-ST15-15",
-    "type": "Opiton",
+    "type": "Option",
     "level": "",
     "cost": "4",
     "color": "Black",
@@ -1212,14 +1212,14 @@
     "face": {
       "front": {
         "name": "Trident Arm-ST15-16",
-        "type": "Opiton",
+        "type": "Option",
         "cost": "6",
         "image": "https://world.digimoncard.com/images/cardlist/card/ST15-16.png"
       },
       "back": ""
     },
     "name": "Trident Arm-ST15-16",
-    "type": "Opiton",
+    "type": "Option",
     "level": "",
     "cost": "6",
     "color": "Black",
@@ -1523,14 +1523,14 @@
     "face": {
       "front": {
         "name": "Lament of Friendship-ST16-15",
-        "type": "Opiton",
+        "type": "Option",
         "cost": "3",
         "image": "https://world.digimoncard.com/images/cardlist/card/ST16-15.png"
       },
       "back": ""
     },
     "name": "Lament of Friendship-ST16-15",
-    "type": "Opiton",
+    "type": "Option",
     "level": "",
     "cost": "3",
     "color": "Purple",
@@ -1541,14 +1541,14 @@
     "face": {
       "front": {
         "name": "Baldy Blow-ST16-16",
-        "type": "Opiton",
+        "type": "Option",
         "cost": "4",
         "image": "https://world.digimoncard.com/images/cardlist/card/ST16-16.png"
       },
       "back": ""
     },
     "name": "Baldy Blow-ST16-16",
-    "type": "Opiton",
+    "type": "Option",
     "level": "",
     "cost": "4",
     "color": "Purple",
@@ -1816,14 +1816,14 @@
     "face": {
       "front": {
         "name": "Anemoi Embrace-ST18-15",
-        "type": "",
+        "type": "Option",
         "cost": "5",
         "image": "https://world.digimoncard.com/images/cardlist/card/ST18-15.png"
       },
       "back": ""
     },
     "name": "Anemoi Embrace-ST18-15",
-    "type": "",
+    "type": "Option",
     "level": "",
     "cost": "5",
     "color": "Green",
@@ -1834,14 +1834,14 @@
     "face": {
       "front": {
         "name": "Green Memory Boost!-P-038-p3",
-        "type": "",
+        "type": "Option",
         "cost": "3",
         "image": "https://world.digimoncard.com/images/cardlist/card/P-038_P3.png"
       },
       "back": ""
     },
     "name": "Green Memory Boost!-P-038-p3",
-    "type": "",
+    "type": "Option",
     "level": "",
     "cost": "3",
     "color": "Green",
@@ -1852,14 +1852,14 @@
     "face": {
       "front": {
         "name": "Offense Training-P-103-p1",
-        "type": "",
+        "type": "Option",
         "cost": "2",
         "image": "https://world.digimoncard.com/images/cardlist/card/P-103_P1.png"
       },
       "back": ""
     },
     "name": "Offense Training-P-103-p1",
-    "type": "",
+    "type": "Option",
     "level": "",
     "cost": "2",
     "color": "Red",
@@ -1870,14 +1870,14 @@
     "face": {
       "front": {
         "name": "Mental Training-P-104-p1",
-        "type": "",
+        "type": "Option",
         "cost": "2",
         "image": "https://world.digimoncard.com/images/cardlist/card/P-104_P1.png"
       },
       "back": ""
     },
     "name": "Mental Training-P-104-p1",
-    "type": "",
+    "type": "Option",
     "level": "",
     "cost": "2",
     "color": "Blue",
@@ -1888,14 +1888,14 @@
     "face": {
       "front": {
         "name": "Physical Training-P-105-p1",
-        "type": "",
+        "type": "Option",
         "cost": "2",
         "image": "https://world.digimoncard.com/images/cardlist/card/P-105_P1.png"
       },
       "back": ""
     },
     "name": "Physical Training-P-105-p1",
-    "type": "",
+    "type": "Option",
     "level": "",
     "cost": "2",
     "color": "Yellow",
@@ -1906,14 +1906,14 @@
     "face": {
       "front": {
         "name": "Agility Training-P-106-p1",
-        "type": "",
+        "type": "Option",
         "cost": "2",
         "image": "https://world.digimoncard.com/images/cardlist/card/P-106_P1.png"
       },
       "back": ""
     },
     "name": "Agility Training-P-106-p1",
-    "type": "",
+    "type": "Option",
     "level": "",
     "cost": "2",
     "color": "Green",
@@ -1924,14 +1924,14 @@
     "face": {
       "front": {
         "name": "Defense Training-P-107-p1",
-        "type": "",
+        "type": "Option",
         "cost": "2",
         "image": "https://world.digimoncard.com/images/cardlist/card/P-107_P1.png"
       },
       "back": ""
     },
     "name": "Defense Training-P-107-p1",
-    "type": "",
+    "type": "Option",
     "level": "",
     "cost": "2",
     "color": "Black",
@@ -1942,14 +1942,14 @@
     "face": {
       "front": {
         "name": "Wisdom Training-P-108-p1",
-        "type": "",
+        "type": "Option",
         "cost": "2",
         "image": "https://world.digimoncard.com/images/cardlist/card/P-108_P1.png"
       },
       "back": ""
     },
     "name": "Wisdom Training-P-108-p1",
-    "type": "",
+    "type": "Option",
     "level": "",
     "cost": "2",
     "color": "Purple",
@@ -94127,14 +94127,14 @@
     "face": {
       "front": {
         "name": "Wanyamon-P-148-p2",
-        "type": "Digi-Egg ",
+        "type": "Digi-Egg",
         "cost": "-",
         "image": "https://world.digimoncard.com/images/cardlist/card/P-148_P2.png"
       },
       "back": ""
     },
     "name": "Wanyamon-P-148-p2",
-    "type": "Digi-Egg ",
+    "type": "Digi-Egg",
     "level": "Lv.2",
     "cost": "-",
     "color": "Blue",
@@ -94145,14 +94145,14 @@
     "face": {
       "front": {
         "name": "Minomon-P-149-p2",
-        "type": "Digi-Egg ",
+        "type": "Digi-Egg",
         "cost": "-",
         "image": "https://world.digimoncard.com/images/cardlist/card/P-149_P2.png"
       },
       "back": ""
     },
     "name": "Minomon-P-149-p2",
-    "type": "Digi-Egg ",
+    "type": "Digi-Egg",
     "level": "Lv.2",
     "cost": "-",
     "color": "Purple",
