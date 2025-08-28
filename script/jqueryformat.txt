@@ -1,0 +1,23 @@
+map({
+id: .id,
+face:{
+  front:{
+    name: .name,
+    type: .type,
+    cost: .cost,
+    image: .face.front.image
+    },
+  back : if(.type == "Digi-Egg",{
+     name: .name,
+     type: .type,
+     cost: .cost,
+     img: "https://raykwashington.github.io/TCG-Arena-DigimonTCG/img/Digi-Egg-Card-Back.png"
+},"")
+  },
+  name: .name,
+  type: .type,
+  level: .level,
+  cost: .cost,
+  color: .color,
+  set: .set
+  })|keyBy(string(.id))
