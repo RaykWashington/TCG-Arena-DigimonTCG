@@ -2,22 +2,22 @@ map({
 id: .id,
 face:{
   front:{
-    name: .name,
-    type: .type,
-    cost: .cost,
-    image: .face.front.image
+    name: .name + " " + .code,
+    type: .cardType,
+    cost: .playCost,
+    image: .images.small
     },
-  back : if(.type == "Digi-Egg",{
-     name: .name,
-     type: .type,
-     cost: .cost,
+  back : if(.cardType == "Digi-Egg",{
+     name: .name + " " + .code,
+     type: .cardType,
+     cost: .playCost,
      img: "https://raykwashington.github.io/TCG-Arena-DigimonTCG/img/Digi-Egg-Card-Back.png"
 },"")
   },
-  name: .name,
-  type: .type,
+  name: .name + " " + .code,
+  type: .cardType,
   level: .level,
-  cost: .cost,
-  color: .color,
-  set: .set
+  cost: .playCost,
+  color: .colors.0,
+  set: .set.name
   })|keyBy(string(.id))
