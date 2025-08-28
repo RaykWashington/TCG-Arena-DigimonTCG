@@ -107,13 +107,14 @@
           "Digi-Egg"
         ],
         "autoPlayFromHand": {
-          "Digimon": "Battle Area",
+          "Digimon": "Hatched",
           "Option": "Stack",
           "Digi-Egg": "Hatched"
         },
         "autoPlayFromStack": {
           "Digi-Egg": "Hatched",
-          "Option": "Discard"
+          "Option": "Discard",
+          "Memory Gauge" : "Memory Gauge"
         },
         "sectionsDict": {
           "Hand": {
