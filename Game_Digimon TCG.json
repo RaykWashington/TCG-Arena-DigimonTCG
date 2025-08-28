@@ -52,27 +52,52 @@
         "customSections": [
           "Battle Area",
           "Security",
-          "Digi-Egg"
+          "Digi-Egg",
+          "Memory Gauge",
+          "Hatched"
         ],
         "layout": {
           "direction": "column",
           "isSymetricalForOpponents": false,
           "content": [
             {
-              "section": "Battle Area",
-              "style": false
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Security",
+                  "style": {
+                    "width": "12vh"
+                  }
+                },
+                {
+                  "section": "Memory Gauge",
+                  "style": {
+                    "width": "12vh"
+                  }
+                },
+                {
+                  "section": "Battle Area",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
             },
             {
               "direction": "row",
               "style": false,
               "content": [
                 {
-                  "section": "Security",
-                  "style": ""
+                  "section": "Digi-Egg",
+                  "style": {
+                    "width": "12vh"
+                  }
                 },
                 {
-                  "section": "Digi-Egg",
-                  "style": false
+                  "section": "Hatched",
+                  "style": {
+                    "width": "12vh"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -82,8 +107,13 @@
         "categoriesAlreadyOnBoard": [
           "Digi-Egg"
         ],
-        "autoPlayFromHand": {},
-        "autoPlayFromStack": {},
+        "autoPlayFromHand": {
+          "Digimon": "Battle Area",
+          "Option": "Discard"
+        },
+        "autoPlayFromStack": {
+          "Digi-Egg": "Hatched"
+        },
         "sectionsDict": {
           "Mana": {
             "title": "Mana",
@@ -104,7 +134,7 @@
           "Battle Area": {
             "title": "Battle Area",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -120,7 +150,7 @@
           "Security": {
             "title": "Security",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -141,7 +171,39 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Breeding Area",
+            "displayedTitle": "Digi-Egg Deck",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Memory Gauge": {
+            "title": "Memory Gauge",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Hatched": {
+            "title": "Hatched",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
