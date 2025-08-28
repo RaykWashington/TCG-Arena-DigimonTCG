@@ -1699,7 +1699,7 @@
         "cost": "5",
         "set": "Starter Deck GUARDIAN VORTEX [ST18]"
     }
-][
+,
     {
         "id": "P-038-p3",
         "face": {
@@ -3400,7 +3400,7 @@
         "cost": "3",
         "set": "Starter Deck Machine Black"
     }
-][
+,
     {
         "id": "ST5-05",
         "face": {
@@ -5101,7 +5101,7 @@
         "cost": "2",
         "set": "HERO OF HOPE [ST-21]"
     }
-][
+,
     {
         "id": "ST7-01",
         "face": {
@@ -6802,7 +6802,7 @@
         "cost": "-",
         "set": "Starter Deck Jesmon"
     }
-][
+,
     {
         "id": "ST12-02",
         "face": {
@@ -8503,7 +8503,7 @@
         "cost": "11",
         "set": "Theme Booster Draconic Roar"
     }
-][
+,
     {
         "id": "EX3-024",
         "face": {
@@ -10204,7 +10204,7 @@
         "cost": "7",
         "set": "Animal Colosseum"
     }
-][
+,
     {
         "id": "EX5-021",
         "face": {
@@ -11905,7 +11905,7 @@
         "cost": "3",
         "set": "Theme Booster Classic Collection"
     }
-][
+,
     {
         "id": "EX1-014",
         "face": {
@@ -13606,7 +13606,7 @@
         "cost": "-",
         "set": "Theme Booster Alternative Being"
     }
-][
+,
     {
         "id": "EX4-005",
         "face": {
@@ -15307,7 +15307,7 @@
         "cost": "-",
         "set": "Theme Booster Digital Hazard"
     }
-][
+,
     {
         "id": "EX2-004",
         "face": {
@@ -17008,7 +17008,7 @@
         "cost": "3",
         "set": "Theme Booster Digital Hazard"
     }
-][
+,
     {
         "id": "EX2-063",
         "face": {
@@ -18709,7 +18709,7 @@
         "cost": "16",
         "set": "THEME BOOSTER INFERNAL ASCENSION [EX06]"
     }
-][
+,
     {
         "id": "EX6-062-p1",
         "face": {
@@ -20410,7 +20410,7 @@
         "cost": "13",
         "set": "Resurgence Booster"
     }
-][
+,
     {
         "id": "BT3-088-p3",
         "face": {
@@ -22111,7 +22111,7 @@
         "cost": "3",
         "set": "Blast Ace"
     }
-][
+,
     {
         "id": "BT14-035",
         "face": {
@@ -23812,7 +23812,7 @@
         "cost": "5",
         "set": "Great Legend"
     }
-][
+,
     {
         "id": "BT4-011-p2",
         "face": {
@@ -25513,7 +25513,7 @@
         "cost": "7",
         "set": "Great Legend"
     }
-][
+,
     {
         "id": "BT4-085",
         "face": {
@@ -27214,7 +27214,7 @@
         "cost": "8",
         "set": "Battle Of Omni"
     }
-][
+,
     {
         "id": "BT5-029",
         "face": {
@@ -28915,7 +28915,7 @@
         "cost": "2",
         "set": "Battle Of Omni"
     }
-][
+,
     {
         "id": "BT5-092",
         "face": {
@@ -30616,7 +30616,7 @@
         "cost": "3",
         "set": "Across Time"
     }
-][
+,
     {
         "id": "BT12-061",
         "face": {
@@ -32317,7 +32317,7 @@
         "cost": "5",
         "set": "Versus Royal Knights"
     }
-][
+,
     {
         "id": "BT13-027",
         "face": {
@@ -34018,7 +34018,7 @@
         "cost": "4",
         "set": "Versus Royal Knights"
     }
-][
+,
     {
         "id": "BT13-101-p1",
         "face": {
@@ -35719,7 +35719,7 @@
         "cost": "12",
         "set": "EXTRA BOOSTER DIGIMON LIBERATOR [EX07]"
     }
-][
+,
     {
         "id": "EX7-048",
         "face": {
@@ -37420,7 +37420,7 @@
         "cost": "5",
         "set": "Double Diamond"
     }
-][
+,
     {
         "id": "BT6-024",
         "face": {
@@ -39121,7 +39121,7 @@
         "cost": "4",
         "set": "Double Diamond"
     }
-][
+,
     {
         "id": "BT6-093",
         "face": {
@@ -40822,7 +40822,7 @@
         "cost": "8",
         "set": "X Record"
     }
-][
+,
     {
         "id": "BT9-064-p1",
         "face": {
@@ -42523,7 +42523,7 @@
         "cost": "8",
         "set": "Beginning Observer"
     }
-][
+,
     {
         "id": "BT16-028",
         "face": {
@@ -44224,7 +44224,7 @@
         "cost": "-",
         "set": "New Awakening"
     }
-][
+,
     {
         "id": "BT8-007",
         "face": {
@@ -45925,7 +45925,7 @@
         "cost": "7",
         "set": "New Awakening"
     }
-][
+,
     {
         "id": "BT8-079-p1",
         "face": {
@@ -47626,7 +47626,7 @@
         "cost": "7",
         "set": "Dimensional Phase"
     }
-][
+,
     {
         "id": "BT11-044",
         "face": {
@@ -49327,7 +49327,7 @@
         "cost": "11",
         "set": "Xros Encounter"
     }
-][
+,
     {
         "id": "BT10-016",
         "face": {
@@ -51028,7 +51028,7 @@
         "cost": "3",
         "set": "Xros Encounter"
     }
-][
+,
     {
         "id": "BT10-091",
         "face": {
@@ -52729,7 +52729,7 @@
         "cost": "7",
         "set": "EXTRA BOOSTER CHAIN OF LIBERATION [EX08]"
     }
-][
+,
     {
         "id": "EX8-043",
         "face": {
@@ -54430,7 +54430,7 @@
         "cost": "3",
         "set": "EXTRA BOOSTER VERSUS MONSTERS [EX-09]"
     }
-][
+,
     {
         "id": "EX9-015",
         "face": {
@@ -56131,7 +56131,7 @@
         "cost": "4",
         "set": "EXTRA BOOSTER VERSUS MONSTERS [EX-09]"
     }
-][
+,
     {
         "id": "EX9-068-p1",
         "face": {
@@ -57832,7 +57832,7 @@
         "cost": "12",
         "set": "Next Adventure"
     }
-][
+,
     {
         "id": "BT7-054",
         "face": {
@@ -59533,7 +59533,7 @@
         "cost": "3",
         "set": "Next Adventure"
     }
-][
+,
     {
         "id": "BT7-089-p1",
         "face": {
@@ -61234,7 +61234,7 @@
         "cost": "4",
         "set": "Exceed Apocalypse"
     }
-][
+,
     {
         "id": "BT15-073",
         "face": {
@@ -62935,7 +62935,7 @@
         "cost": "5",
         "set": "BOOSTER SECRET CRISIS [BT17]"
     }
-][
+,
     {
         "id": "BT17-035",
         "face": {
@@ -64636,7 +64636,7 @@
         "cost": "5",
         "set": "BOOSTER SECRET CRISIS [BT17]"
     }
-][
+,
     {
         "id": "BT14-088-p1",
         "face": {
@@ -66337,7 +66337,7 @@
         "cost": "7",
         "set": "Release Special Booster Ver.1.5"
     }
-][
+,
     {
         "id": "BT3-015",
         "face": {
@@ -68038,7 +68038,7 @@
         "cost": "5",
         "set": "Release Special Booster Ver.1.5"
     }
-][
+,
     {
         "id": "BT3-086",
         "face": {
@@ -69739,7 +69739,7 @@
         "cost": "3",
         "set": "WORLD CONVERGENCE [BT-21]"
     }
-][
+,
     {
         "id": "BT21-042",
         "face": {
@@ -71440,7 +71440,7 @@
         "cost": "12",
         "set": "WORLD CONVERGENCE [BT-21]"
     }
-][
+,
     {
         "id": "LM-040",
         "face": {
@@ -73141,7 +73141,7 @@
         "cost": "3",
         "set": "Release Special Booster Ver.1.0"
     }
-][
+,
     {
         "id": "BT1-066-p2",
         "face": {
@@ -74842,7 +74842,7 @@
         "cost": "4",
         "set": "Release Special Booster Ver.1.0"
     }
-][
+,
     {
         "id": "BT2-072",
         "face": {
@@ -76543,7 +76543,7 @@
         "cost": "12",
         "set": "Release Special Booster Ver.1.0"
     }
-][
+,
     {
         "id": "BT1-044-p1",
         "face": {
@@ -78244,7 +78244,7 @@
         "cost": "6",
         "set": "Special Booster Ver.2.0 [BT18-19]"
     }
-][
+,
     {
         "id": "BT18-067",
         "face": {
@@ -79945,7 +79945,7 @@
         "cost": "4",
         "set": "Special Booster Ver.2.0 [BT18-19]"
     }
-][
+,
     {
         "id": "BT19-084",
         "face": {
@@ -81646,7 +81646,7 @@
         "cost": "-",
         "set": "Special Booster Ver.2.5 [BT19-20]"
     }
-][
+,
     {
         "id": "BT20-003-p1",
         "face": {
@@ -83347,7 +83347,7 @@
         "cost": "15",
         "set": "Special Booster Ver.2.5 [BT19-20]"
     }
-][
+,
     {
         "id": "BT20-082-p1",
         "face": {
@@ -85048,7 +85048,7 @@
         "cost": "-",
         "set": "Promotion Card"
     }
-][
+,
     {
         "id": "P-178",
         "face": {
@@ -86749,7 +86749,7 @@
         "cost": "6",
         "set": "Promotion Card"
     }
-][
+,
     {
         "id": "BT14-066-p1",
         "face": {
@@ -88450,7 +88450,7 @@
         "cost": "3",
         "set": "Promotion Card"
     }
-][
+,
     {
         "id": "EX2-060-p2",
         "face": {
@@ -90151,7 +90151,7 @@
         "cost": "11",
         "set": "Promotion Card"
     }
-][
+,
     {
         "id": "BT9-041-p2",
         "face": {
@@ -91852,7 +91852,7 @@
         "cost": "3",
         "set": "Promotion Card"
     }
-][
+,
     {
         "id": "BT8-067-p2",
         "face": {
@@ -93553,7 +93553,7 @@
         "cost": "-",
         "set": "Promotion Card"
     }
-][
+,
     {
         "id": "ST9-01-p1",
         "face": {
@@ -95254,7 +95254,7 @@
         "cost": "3",
         "set": "Promotion Card"
     }
-][
+,
     {
         "id": "EX1-027-p1",
         "face": {
@@ -96955,7 +96955,7 @@
         "cost": "3",
         "set": "Promotion Card"
     }
-][
+,
     {
         "id": "P-126",
         "face": {
@@ -98656,7 +98656,7 @@
         "cost": "7",
         "set": "Promotion Card"
     }
-][
+,
     {
         "id": "P-009",
         "face": {
