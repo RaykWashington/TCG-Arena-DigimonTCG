@@ -111,7 +111,8 @@
           "Digi-Egg": "Hatched"
         },
         "autoPlayFromStack": {
-          "Digi-Egg": "Hatched"
+          "Digi-Egg": "Hatched",
+          "Option": "Discard"
         },
         "sectionsDict": {
           "Mana": {
@@ -167,16 +168,7 @@
             "isHidden": "yes",
             "height": "MEDIUM",
             "alignment": "DECK",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Digi-Egg Deck",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "displayedTitle": "Digi-Egg Deck"
           },
           "Memory Gauge": {
             "title": "Memory Gauge",
@@ -197,8 +189,8 @@
           "Hatched": {
             "title": "Hatched",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
+            "height": "small",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
