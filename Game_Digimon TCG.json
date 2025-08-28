@@ -3,7 +3,8 @@
   "menuBackgroundImage": "https://raykwashington.github.io/TCG-Arena-DigimonTCG/img/playmat1.jpg",
   "defaultRessources": {
     "backgrounds": [
-      "https://raykwashington.github.io/TCG-Arena-DigimonTCG/img/playmat1.jpg"
+      "https://raykwashington.github.io/TCG-Arena-DigimonTCG/img/playmat1.jpg",
+      "https://raykwashington.github.io/TCG-Arena-DigimonTCG/img/playmat2.jpg"
     ],
     "decksUrl": "https://raykwashington.github.io/TCG-Arena-DigimonTCG/deckList.json"
   },
