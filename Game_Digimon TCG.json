@@ -1,9 +1,9 @@
 {
   "name": "Digimon TCG",
-  "menuBackgroundImage": "https://hdwallpaperim.com/wp-content/uploads/2017/08/22/106350-Digimon_Adventure-Digimon.jpg",
+  "menuBackgroundImage": "https://raykwashington.github.io/TCG-Arena-DigimonTCG/img/playmat1.png",
   "defaultRessources": {
     "backgrounds": [
-      "https://hdwallpaperim.com/wp-content/uploads/2017/08/22/106350-Digimon_Adventure-Digimon.jpg"
+      "https://raykwashington.github.io/TCG-Arena-DigimonTCG/img/playmat1.png"
     ],
     "decksUrl": ""
   },
