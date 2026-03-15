@@ -33,15 +33,8 @@
   },
   "gameplay": {
     "Classic": {
-      "mulligan": {
-        "info": "",
-        "startingHandSize": "5",
-        "drawNewHand": true,
-        "putSelectionAtBottom": false,
-        "drawNewSelectedCards": false
-      },
       "beforeGameSstart": {
-        "initialBoardSetup" :{
+        "initialBoardSetup": 
           [
             {
               "createCardId" : "MemoryGauge",
@@ -54,7 +47,13 @@
               "destination" : "Security"
             }
           ]
-        }
+      },
+      "mulligan": {
+        "info": "",
+        "startingHandSize": "5",
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
       },
       "newTurn": {
         "drawOnStart": false,
