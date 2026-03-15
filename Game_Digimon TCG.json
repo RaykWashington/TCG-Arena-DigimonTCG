@@ -12,7 +12,10 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://raykwashington.github.io/TCG-Arena-DigimonTCG/script/cardList.json",
-    "cardBack": "https://raykwashington.github.io/TCG-Arena-DigimonTCG/img/Digimon-Card-Back.png"
+    "cardBack": "https://raykwashington.github.io/TCG-Arena-DigimonTCG/img/Digimon-Card-Back.png",
+    "extraCardBacks" : {
+      "Digi-Egg" : "https://raykwashington.github.io/TCG-Arena-DigimonTCG/img/Digi-Egg-Card-Back.png"
+    }
   },
   "deckBuilding": {
     "mainFilters": [
