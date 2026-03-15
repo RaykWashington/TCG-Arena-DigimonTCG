@@ -40,6 +40,22 @@
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
       },
+      "beforeGameSstart": {
+        "initialBoardSetup" :{
+          [
+            {
+              "createCardId" : "MemoryGauge",
+              "count" : 1,
+              "destination" : "Memory Gauge"
+            },
+            {
+              "drawFromTop" : "Deck",
+              "count" : 5,
+              "destination" : "Security"
+            }
+          ]
+        }
+      },
       "newTurn": {
         "drawOnStart": false,
         "sharedTurn": false,
