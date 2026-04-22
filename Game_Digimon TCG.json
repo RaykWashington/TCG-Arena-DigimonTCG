@@ -54,10 +54,10 @@
       "hideFacedDownCards": true,
       "sections": {
         "customSections": [
-          "Battle Area",
+          "BattleArea",
           "Security",
           "Digi-Egg",
-          "Memory Gauge",
+          "MemoryGauge",
           "Hatched"
         ],
         "layout": {
@@ -75,13 +75,13 @@
                   }
                 },
                 {
-                  "section": "Memory Gauge",
+                  "section": "MemoryGauge",
                   "style": {
                     "width": "20vh"
                   }
                 },
                 {
-                  "section": "Battle Area",
+                  "section": "BattleArea",
                   "style": false
                 }
               ],
@@ -117,7 +117,7 @@
         "autoPlayFromStack": {
           "Digi-Egg": "Hatched",
           "Option": "Discard",
-          "Memory Gauge" : "Memory Gauge"
+          "MemoryGauge" : "MemoryGauge"
         },
         "sectionsDict": {
           "Hand": {
@@ -256,15 +256,15 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": false
           },
-          "Battle Area": {
-            "title": "Battle Area",
+          "BattleArea": {
+            "title": "BattleArea",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Battle Area",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -304,15 +304,15 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Memory Gauge": {
-            "title": "Memory Gauge",
+          "MemoryGauge": {
+            "title": "MemoryGauge",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Memory Gauge",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -338,7 +338,6 @@
           }
         }
       }
-      
     }
   }
 }
