@@ -31,11 +31,11 @@
   "gameplay": {
     "Classic": {
       "beforeGameStart": {
-        "initialBoardSetup": {
+        "initialBoardSetup": [{
             "drawFromTop": "Deck",
             "count" : "5",
             "destination" : "Security"
-        }
+      }]
       },
       "mulligan": {
         "info": "",
