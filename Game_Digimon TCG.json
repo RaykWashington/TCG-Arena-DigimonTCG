@@ -33,21 +33,6 @@
   },
   "gameplay": {
     "Classic": {
-      "beforeGameSstart": {
-        "initialBoardSetup": 
-          [
-            {
-              "createCardId" : "MemoryGauge",
-              "count" : 1,
-              "destination" : "Memory Gauge"
-            },
-            {
-              "drawFromTop" : "Deck",
-              "count" : 5,
-              "destination" : "Security"
-            }
-          ]
-      },
       "mulligan": {
         "info": "",
         "startingHandSize": "5",
@@ -353,6 +338,7 @@
           }
         }
       }
+      
     }
   }
 }
