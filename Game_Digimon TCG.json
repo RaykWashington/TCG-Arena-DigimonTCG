@@ -79,7 +79,7 @@
                   "section": "BattleArea",
                   "style": {
                     "marginLeft": "30vh",
-                    "marginRight": "30vh",
+                    "marginRight": "100vh",
                     "padding": "10vh"
                   }
                 },
@@ -182,18 +182,9 @@
           "Digi-Egg": {
             "title": "Digi-Egg",
             "isHidden": "yes",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "DECK",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "displayedTitle": "Digi-Egg"
           }
         }
       }
