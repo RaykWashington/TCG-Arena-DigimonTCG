@@ -78,7 +78,7 @@
                 {
                   "section": "BattleArea",
                   "style": {
-                    "width" : "80vh",
+                    "width" : "60vh",
                     "marginLeft": "30vh",
                     "marginRight": "100vh",
                     "padding": "10vh"
@@ -167,7 +167,7 @@
           "Hatched": {
             "title": "Hatched",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
