@@ -78,6 +78,7 @@
                 {
                   "section": "BattleArea",
                   "style": {
+                    "width" : "80vh",
                     "marginLeft": "30vh",
                     "marginRight": "100vh",
                     "padding": "10vh"
