@@ -179,7 +179,7 @@
           },
           "Digi-Egg": {
             "title": "Digi-Egg",
-            "isHidden": "no",
+            "isHidden": "yes",
             "height": "SMALL",
             "alignment": "DECK",
             "opponentAlignment": false,
