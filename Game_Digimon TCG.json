@@ -20,10 +20,23 @@
       "name",
       "color"
     ],
-    "formats": ["Classic"]
+     "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic",
+        "customCategories": []
+      }
+    ]
   },
   "gameplay": {
     "Classic": {
+      "beforeGameStart": {
+        "initialBoardSetup": {
+            "drawFromTop": "Deck",
+            "count" : "5",
+            "destination" : "Security"
+        }
+      },
       "mulligan": {
         "info": "",
         "startingHandSize": "5",
