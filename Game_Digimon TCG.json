@@ -12,7 +12,10 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://raykwashington.github.io/TCG-Arena-DigimonTCG/script/cardList.json",
-    "cardBack": "https://raykwashington.github.io/TCG-Arena-DigimonTCG/img/Digimon-Card-Back.png"
+    "cardBack": "https://raykwashington.github.io/TCG-Arena-DigimonTCG/img/Digimon-Card-Back.png",
+    "extraCardBacks" : {
+      "Digi-Egg" : "https://raykwashington.github.io/TCG-Arena-DigimonTCG/img/Digi-Egg-Card-Back.png"
+    }
   },
   "deckBuilding": {
     "mainFilters": [
@@ -76,7 +79,7 @@
                   "section": "BattleArea",
                   "style": {
                     "marginLeft": "30vh",
-                    "width": "100vh",
+                    "marginRight": "30vh",
                     "padding": "10vh"
                   }
                 },
@@ -87,7 +90,6 @@
                     {
                       "section": "Digi-Egg",
                       "style": {
-                        "width": "10vh"
                       }
                     },
                     {
