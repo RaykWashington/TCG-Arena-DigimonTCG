@@ -54,6 +54,7 @@
       "hideFacedDownCards": true,
       "sections": {
         "customSections": [
+          "Mana",
           "BattleArea",
           "Security",
           "Digi-Egg",
