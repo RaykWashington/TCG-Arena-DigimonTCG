@@ -65,7 +65,8 @@
           "BattleArea",
           "Security",
           "Digi-Egg",
-          "Hatched"
+          "Hatched",
+          "Tamer"
         ],
         "layout": {
           "direction": "row",
@@ -92,8 +93,20 @@
                     },
                     {
                       "section": "Hatched",
-                      "width" : "20vh",
-                      "style": false
+                      "style": {
+                        "width" : "20vh",
+                        "marginRight" : "10vh"
+                      }
+                    },
+                    {
+                      "optional":{
+                        "key" : "Tamer Section",
+                        "section": "Tamer",
+                        "style": {
+                          "width" : "40vh",
+                          "marginLeft" : "60vh"
+                        }
+                       }
                     }
                   ],
                   "isSymetricalForOpponents": false
@@ -167,6 +180,22 @@
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Tamer": {
+            "title": "Tamer",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "END",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
