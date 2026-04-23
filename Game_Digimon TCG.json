@@ -89,7 +89,8 @@
                     {
                       "direction": "row",
                       "style": {
-                            "marginRight" : "10vh"
+                            "marginRight" : "10vh",
+                            "max-width" : "25vh"
                           },
                       "content": [
                         {
