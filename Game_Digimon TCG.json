@@ -143,7 +143,7 @@
         "autoPlayFromHand": {
           "Digimon": "BattleArea",
           "Option": "Stack",
-          "Digi-Egg": "Stack",
+          "Digi-Egg": "Hatched",
           "Tamer" : "Tamer"
         },
         "autoPlayFromStack": {
@@ -156,7 +156,7 @@
           "Security": {
             "title": "Security",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
