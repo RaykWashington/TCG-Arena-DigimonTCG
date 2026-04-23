@@ -89,8 +89,7 @@
                     {
                       "direction": "row",
                       "style": {
-                            "marginRight" : "10vh",
-                            "max-width" : "25vh"
+                            "justify-content": "start"
                           },
                       "content": [
                         {
@@ -102,14 +101,15 @@
                         {
                           "section": "Hatched",
                           "style": {
-                            "width" : "20vh"
+                            "width" : "20vh",
+                            "justify-content" : "center"
                           }
                         }
                       ]
                     },
                     {
                       "section": "Tamer",
-                      "optional": "Tamer Section",
+                      "optional": {"key": "Tamer Section"},
                       "style": {
                         "width" : "40vh",
                         "marginLeft" : "10vh"
@@ -124,7 +124,7 @@
             {
               "direction": "column",
               "style": {
-                "width": "22vh",
+                "width": "30vh",
                 "justify-content": "start"
               },
               "content": [
@@ -141,14 +141,16 @@
           "Digi-Egg"
         ],
         "autoPlayFromHand": {
-          "Digimon": "Hatched",
+          "Digimon": "BattleArea",
           "Option": "Stack",
-          "Digi-Egg": "Hatched",
+          "Digi-Egg": "Stack",
           "Tamer" : "Tamer"
         },
         "autoPlayFromStack": {
           "Digi-Egg": "Hatched",
-          "Option": "Discard"
+          "Digimon" : "BattleArea",
+          "Option": "Discard",
+          "Tamer" : "Tamer"
         },
         "sectionsDict": {
           "Security": {
