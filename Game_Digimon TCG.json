@@ -99,14 +99,11 @@
                       }
                     },
                     {
-                      "optional":{
-                        "key" : "Tamer Section",
-                        "section": "Tamer",
-                        "style": {
-                          "width" : "40vh",
-                          "marginLeft" : "60vh"
-                        }
-                       }
+                      "section": "Tamer",
+                      "style": {
+                        "width" : "40vh",
+                        "marginLeft" : "10vh"
+                      }
                     }
                   ],
                   "isSymetricalForOpponents": false
@@ -136,7 +133,8 @@
         "autoPlayFromHand": {
           "Digimon": "Hatched",
           "Option": "Stack",
-          "Digi-Egg": "Hatched"
+          "Digi-Egg": "Hatched",
+          "Tamer" : "Tamer"
         },
         "autoPlayFromStack": {
           "Digi-Egg": "Hatched",
@@ -199,7 +197,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Tamer",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
