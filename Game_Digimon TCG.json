@@ -87,16 +87,24 @@
                   "style": false,
                   "content": [
                     {
-                      "section": "Digi-Egg",
+                      "direction": "row",
                       "style": {
-                      }
-                    },
-                    {
-                      "section": "Hatched",
-                      "style": {
-                        "width" : "20vh",
-                        "marginRight" : "10vh"
-                      }
+                            "marginRight" : "10vh"
+                          },
+                      "content": [
+                        {
+                          "section": "Digi-Egg",
+                          "style": {
+                            "width" : "20vh"
+                          }
+                        },
+                        {
+                          "section": "Hatched",
+                          "style": {
+                            "width" : "20vh"
+                          }
+                        }
+                      ]
                     },
                     {
                       "section": "Tamer",
@@ -144,7 +152,7 @@
           "Security": {
             "title": "Security",
             "isHidden": "yes",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
