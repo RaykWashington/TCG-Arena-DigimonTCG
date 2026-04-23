@@ -101,7 +101,7 @@
                         {
                           "section": "Hatched",
                           "style": {
-                            "width" : "20vh",
+                            "width" : "40vh",
                             "justify-content" : "center"
                           }
                         }
