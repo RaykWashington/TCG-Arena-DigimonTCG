@@ -108,6 +108,7 @@
                     },
                     {
                       "section": "Tamer",
+                      "optional": "Tamer Section",
                       "style": {
                         "width" : "40vh",
                         "marginLeft" : "10vh"
