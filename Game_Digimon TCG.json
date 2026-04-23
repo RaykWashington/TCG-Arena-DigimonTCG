@@ -59,7 +59,7 @@
         0,
         "0"
       ],
-      "hideFacedDownCards": false,
+      "hideFacedDownCards": true,
       "sections": {
         "customSections": [
           "BattleArea",
@@ -92,6 +92,7 @@
                     },
                     {
                       "section": "Hatched",
+                      "width" : "20vh",
                       "style": false
                     }
                   ],
@@ -164,7 +165,7 @@
           "Hatched": {
             "title": "Hatched",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
